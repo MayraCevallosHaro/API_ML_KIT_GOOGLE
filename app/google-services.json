@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744174951282",
+    "project_id": "proyecto-vi-remenber-me",
+    "storage_bucket": "proyecto-vi-remenber-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744174951282:android:da9876d01970c1b3ab1beb",
+        "android_client_info": {
+          "package_name": "com.example.api_ml_kit_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744174951282-9lpt5ntmv9u309841f78cfc9kndrsbk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt9_VhvXyNSm0JwD5ZqKpl9C80UqxjZtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744174951282-9lpt5ntmv9u309841f78cfc9kndrsbk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
